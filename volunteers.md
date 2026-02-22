@@ -31,4 +31,4 @@ We have a lot of roles available in different areas as we want to have more than
 
 ## How to reach out
 
-Please reach out via Rowland Mosbergen’s LinkedIn if you want to find out more.
+Please reach out via [Rowland Mosbergen’s LinkedIn ](https://www.linkedin.com/in/rowlandm-gaicd/)if you want to find out more.
