@@ -4,7 +4,7 @@ Equitable global collaboration in Research Software
 
 In collaboration with RSE-AUNZ and RSE Asia.
 
-<img width="630" height="366" alt="RSE-AUNZ logo and RSE Asia logo" src="https://github.com/user-attachments/assets/ffdb1aa8-76b3-4c70-9624-9921a6b13521" />
+<img style="max-width: 100%;  height: auto;" alt="RSE-AUNZ logo and RSE Asia logo" src="https://github.com/user-attachments/assets/ffdb1aa8-76b3-4c70-9624-9921a6b13521" />
 
 
 ## Purpose Statement
