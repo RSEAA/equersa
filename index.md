@@ -21,9 +21,7 @@ We are still welcoming volunteers, especially for Africa and Latin America.
 
 Time commitment for a regular volunteer is about 1 hour per week for 30 weeks. We will have a regular weekly meeting and you are encouraged to join part of those meetings to help you to connect with others and build a sense of community, as well as to contribute ideas and help out.
 
-If we face challenges in maintaining regular volunteer support, we may need to set lower expectations for conference participants. We would rather push back against conference participant expectations than burn out our volunteers. 
-
-Please reach out via [Rowland Mosbergen's LinkedIn](https://www.linkedin.com/in/rowlandm-gaicd/) if you want to find out more.
+You can [find out more in our volunteer page.](volunteer)
 
 ## Diversity, Equity and Inclusion Statement
 
