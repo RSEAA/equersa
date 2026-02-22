@@ -21,7 +21,7 @@ We are still welcoming volunteers, especially for Africa and Latin America.
 
 Time commitment for a regular volunteer is about 1 hour per week for 30 weeks. We will have a regular weekly meeting and you are encouraged to join part of those meetings to help you to connect with others and build a sense of community, as well as to contribute ideas and help out.
 
-You can [find out more in our volunteer page.](volunteer)
+You can [find out more in our volunteer page.](volunteers)
 
 ## Diversity, Equity and Inclusion Statement
 
