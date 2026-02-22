@@ -4,7 +4,7 @@ If you want to volunteer for Equersa you will be helping the Research Software A
 
 ## What should you know
 
-We are still welcoming volunteers, especially for Africa and Latin America.
+We are still welcoming volunteers, especially people connected closely to Africa and Latin America.
 
 ### Time commitment
 
