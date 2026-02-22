@@ -18,8 +18,6 @@ If we face challenges in maintaining regular volunteer support, we may need to s
 
 We have a lot of roles available in different areas as we want to have more than one person working on a particular area across all three conferences.  As an example we would ideally have three people volunteering for the marketing area that are from Asia, Africa and Latin America. You can find out more about the areas in the table below:
 
-# Conference Organization Areas
-
 | Area | Details |
 |------|---------|
 | **Program** | Organise the themes of the half-days, the schedule, the program (who is doing what and when) and keynotes. This includes organising the reviewers to do the reviews and to pick the speakers for the conference. |
