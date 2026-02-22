@@ -1,6 +1,6 @@
 # Welcome to Equersa 
 
-Equitable global collaboration in Research Software
+Equitable global collaboration and opportunity in Research Software
 
 In collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/) and [RSE-AUNZ](https://rse-aunz.org/).
 
@@ -29,5 +29,6 @@ We acknowledge that achieving inclusivity and equity is challenging, and we won'
 
 We recognise that we may not be fully aware of all individual needs, and we may not be doing enough to address specific circumstances. 
 
-We follow the principals created by [Practical Diversity and Inclusion](https://www.practicaldiversity.org/)
-, and underpin that in as many processes as we can. 
+We follow the principals created by [Practical Diversity and Inclusion](https://www.practicaldiversity.org/), and underpin that in as many processes as we can. 
+
+We do this by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
