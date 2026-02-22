@@ -1,6 +1,11 @@
 # Welcome to Equersa 
 
-## Equitable global collaboration in Research Software
+Equitable global collaboration in Research Software
+
+In collaboration with
+
+<img width="630" height="366" alt="RSE-AUNZ-plus-RSE-Asia-logos" src="https://github.com/user-attachments/assets/ffdb1aa8-76b3-4c70-9624-9921a6b13521" />
+
 
 ## Purpose Statement
 Equersa fosters true global knowledge sharing and collaboration in research software through the creation of equitable environments for Research Software Engineers (RSEs are researchers who code, software engineers who work in the research domain, generalists who bring communities together, and sysadmins who maintain research software systems). We do this by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
