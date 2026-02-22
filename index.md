@@ -12,7 +12,7 @@ Equersa fosters true global knowledge sharing and collaboration in research soft
 
 [^1]: RSEs are researchers who code, software engineers who work in the research domain, generalists who bring communities together, and sysadmins who maintain research software systems
 
-## Services and Customers
+## What we do
 Equersa supports conferences by creating a joint organising committee for Research Software conferences in Asia and Australia [(Research Software Asia Australia)](https://rseaa.org/), Africa (Research Software Africa) and Latin America (Research Software Latinoamérica). We aim to give RSEs in overlooked regions a community to belong to.
 
 ## Want to Volunteer?
