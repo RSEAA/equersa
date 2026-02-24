@@ -32,3 +32,9 @@ We have a lot of roles available in different areas as we want to have more than
 ## How to reach out
 
 Please reach out via [Rowland Mosbergen’s LinkedIn ](https://www.linkedin.com/in/rowlandm-gaicd/)if you want to find out more.
+
+To sign up - please send the following to Rowland:
+1. Your name
+2. Your email address
+3. Your current country location
+4. What areas you would like to contribute to
