@@ -1,6 +1,6 @@
 # Welcome to the Research Software Latinoamérica (RSLA26) Landing Page 
 
-Recently we have created an organising committee to host the first online Research Software Latinoamérica (RSLA26) conference in August 2026. This is a joint organising committee, setup by an umbrella organisation Equersa, that spans three conferences - RSLA, RSAA (Asia Australia) and RSA (Africa). 
+Recently we have created an organising committee to host the first online Research Software Latinoamérica (RSLA26) conference in August 2026. This is a joint organising committee, setup by an umbrella organisation Equersa, that spans three conferences - RSLA, [RSAA (Asia Australia)](RSAA) and [RSA (Africa)](RSA). 
 
 This conference is based on the success of the Research Software Asia Australia ([RSAA](RSAA)) conferences that have been going since 2022.
 
