@@ -9,6 +9,6 @@ We have three co-chairs at present:
 2. Michael Umeokoli, and
 3. Kim Martin 
 
-We have 12 volunteers from 8 African countries in total on our organising committee.
+We have 12 volunteers from 8 African countries on our organising committee of 40+ volunteers from 16 countries.
 
 If you would like to volunteer, you can [find out more on our Volunteers page](volunteers).
