@@ -1,4 +1,4 @@
-# Welcome to the Research Software Africa Landing Page 
+# Welcome to the Research Software Africa (RSA26) Landing Page 
 
 Recently we have created an organising committee to host the first online Research Software Africa (RSA26) conference in August 2026.
 
