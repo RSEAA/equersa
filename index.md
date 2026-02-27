@@ -36,7 +36,7 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 
 ## Code of Conduct
 
-The [RSE-AUNZ Code of Conduct]([url](https://rse-aunz.org/code-of-conduct/)) is designed to provide all participants with community participation guidelines.
+The [RSE-AUNZ Code of Conduct](https://rse-aunz.org/code-of-conduct/) is designed to provide all participants with community participation guidelines.
 
 Everyone volunteering at Equersa and attending the conference needs to abide by them. 
 
