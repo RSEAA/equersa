@@ -24,7 +24,7 @@ We want to avoid being extractive of our volunteers, and we want to keep them sa
 
 ## Code of Conduct
 
-The [RSE-AUNZ Code of Conduct]([url](https://rse-aunz.org/code-of-conduct/)) is designed to provide all participants with community participation guidelines.
+The [RSE-AUNZ Code of Conduct](https://rse-aunz.org/code-of-conduct/) is designed to provide all participants with community participation guidelines.
 
 Everyone volunteering at Equersa and attending the conference needs to abide by them. 
 
@@ -74,6 +74,7 @@ To sign up - please send the following to Rowland:
 2. Your email address
 3. Your current country location
 4. What areas you would like to contribute to
+5. That you agree to the Code of Conduct
 
 We will then send you a welcome email after we give you access to:
 1. one of the co-working meetings
