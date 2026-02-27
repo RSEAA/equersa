@@ -7,6 +7,23 @@ Equersa supports conferences by creating a joint organising committee. These con
 
 By volunteering with Equersa you will be helping all three conferences at the same time!
 
+We want you to volunteer so you can be doing something that:
+1. is motivating to you,
+2. would benefit you in some way (eg. add to your resume), and
+3. will also help Equersa help the conferences.
+
+### Commitment to our volunteers
+
+We want to avoid being extractive of our volunteers, and we want to keep them safe from burnout. 
+
+For example, if we face challenges in maintaining regular volunteer support, we may need to set lower expectations for conference participants. We would rather push back against conference participant expectations than burn out our valuable volunteers.
+
+There are no expectations of how long you will be able to contribute for. You can stop at any time. Life happens, and you are volunteering. 
+
+If you can, let us know if you do not want to contribute anymore so you don’t get messages inappropriately. If you can't let us know, we may reach out to check in on you and see if you are OK.
+
+If you feel we are being extractive, please reach out to  [Rowland Mosbergen via his LinkedIn](https://www.linkedin.com/in/rowlandm-gaicd/) to let him know.
+
 ## What should you know
 
 We are still welcoming volunteers, especially people connected closely to Africa and Latin America.
@@ -27,10 +44,6 @@ Please note that the weekly co-working meetings are there to:
 - Help us troubleshoot any problems that couldn’t be solved by email/chat
 - Help us resolve any decisions that couldn’t be solved by email/chat
 - Status updates and problems should be done by email so we can use the meetings as co-working meetings 
-
-### Protecting our volunteers
-
-If we face challenges in maintaining regular volunteer support, we may need to set lower expectations for conference participants. We would rather push back against conference participant expectations than burn out our volunteers.
 
 ### Different areas
 
