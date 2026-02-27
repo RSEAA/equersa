@@ -19,6 +19,21 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 
 <img style="max-width: 300px;  height: auto;" alt="RSE-AUNZ logo and RSE Asia logo" src="https://github.com/user-attachments/assets/ffdb1aa8-76b3-4c70-9624-9921a6b13521" />
 
+## Key Dates (Tentative)
+
+| Item | Open | Close |
+|------|------|-------|
+| Call for Presentations | 30th March | 1st May |
+| Accessibility Fellows | 14th May | 26th June |
+| Notification of presentations | 7th July | — |
+| Call for Session chairs | ASAP | 7th August |
+| Call for Reviewers | ASAP | 15th May |
+| Micro-grants | 14th May | 10th July |
+| Scholarships | 14th May | 14th August |
+| Early Bird Registrations | 15th June | 10th July |
+| Standard Registrations | 11th July | 14th August |
+| Conference | 25th August | 28th August (depending on conference) |
+
 ## Want to Volunteer?
 
 We are still welcoming volunteers, especially those closely connected to Africa and Latin America. 
