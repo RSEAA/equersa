@@ -43,7 +43,7 @@ We have 4 types of volunteers, with co-chairs having the highest level of commit
 | Lowest | Reviewers | 2 to 4 hours total | Review submissions for talks, lightning talks, panels and flexible formats | Still available |
 | Lowest | Session Chairs | 2 to 4 hours total | Welcome participants to the session, provide information to speakers at the session (including time keeping), thank the speakers at the end of the session. | Still available |
 
-## Meetings
+## Meetings for co-chairs and organising committee members
 
 Please note that the weekly co-working meetings are there to:
 - Help us connect with each other
@@ -51,7 +51,7 @@ Please note that the weekly co-working meetings are there to:
 - Help us resolve any decisions that couldn’t be solved by email/chat
 - Status updates and problems should be done by email so we can use the meetings as co-working meetings 
 
-### Different areas
+### Different areas for co-chairs and organising committee members
 
 We have a lot of roles available in different areas as we want to have more than one person working on a particular area across all three conferences.  As an example we would ideally have three people volunteering for the marketing area that are from Asia, Africa and Latin America. You can find out more about the areas in the table below:
 
@@ -75,10 +75,13 @@ To sign up - please send the following to Rowland:
 1. Your name
 2. Your email address
 3. Your current country location
-4. What areas you would like to contribute to
-5. That you agree to the Code of Conduct
+4. What type of volunteer? Organising committee member, reviewer, session chair
+5. What areas you would like to contribute to (if you want to be an organising committee member
+6. That you agree to the Code of Conduct
 
-We will then send you a welcome email after we give you access to:
+For session chairs and reviewers, we will email you an acknowledgement.
+
+For organising committee members, we will then send you a welcome email after we give you access to:
 1. one of the co-working meetings
 2. our documentation on Google Drive
 3. our Github Project
