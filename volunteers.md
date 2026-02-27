@@ -18,7 +18,7 @@ We have 4 types of volunteers, with co-chairs having the highest level of commit
 | Highest | Co-chairs | Up to 60 hours / 2 hours per week | Organise and oversee all aspects of their conference, plus work on one area. Regularly attend and chair co-working weekly meetings. Provide email responses within 72 hours. | Filled |
 | High | Organising committee members | 30 hours / 1 hour per week | Suggest and implement ideas for an area of the conference. Attend some of the co-working weekly meetings as needed (or more if you want to hang out and connect). Provide email responses within 72 hours as appropriate. | Still available |
 | Lowest | Reviewers | 2 to 4 hours total | Review submissions for talks, lightning talks, panels and flexible formats | Still available |
-| Lowest | Session Chairs | 2 to 4 hours total | Review submissions for talks, lightning talks, panels and flexible formats | Still available |
+| Lowest | Session Chairs | 2 to 4 hours total | Welcome participants to the session, provide information to speakers at the session (including time keeping), thank the speakers at the end of the session. | Still available |
 
 ## Meetings
 
