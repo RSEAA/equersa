@@ -20,6 +20,14 @@ We have 4 types of volunteers, with co-chairs having the highest level of commit
 | Lowest | Reviewers | 2 to 4 hours total | Review submissions for talks, lightning talks, panels and flexible formats | Still available |
 | Lowest | Session Chairs | 2 to 4 hours total | Review submissions for talks, lightning talks, panels and flexible formats | Still available |
 
+## Meetings
+
+Please note that the weekly co-working meetings are there to:
+- Help us connect with each other
+- Help us troubleshoot any problems that couldn’t be solved by email/chat
+- Help us resolve any decisions that couldn’t be solved by email/chat
+- Status updates and problems should be done by email so we can use the meetings as co-working meetings 
+
 ### Protecting our volunteers
 
 If we face challenges in maintaining regular volunteer support, we may need to set lower expectations for conference participants. We would rather push back against conference participant expectations than burn out our volunteers.
@@ -39,6 +47,7 @@ We have a lot of roles available in different areas as we want to have more than
 | **Social Networking** | Plan and implement social networking activities such as potential in-person social catchups after the final session of a day, or potential online speed networking (where you meet someone and introduce yourself for 2 minutes each), or other potential ways on how to get people to connect with each other and make a human connection. |
 | **Post-conference** | Write up a summary report, put accessibility fellow reports on the website, organise honorariums, upload videos to YouTube, and provide certificates for volunteers. |
 
+
 ## How to reach out
 
 Please reach out via [Rowland Mosbergen’s LinkedIn ](https://www.linkedin.com/in/rowlandm-gaicd/)if you want to find out more.
@@ -48,3 +57,9 @@ To sign up - please send the following to Rowland:
 2. Your email address
 3. Your current country location
 4. What areas you would like to contribute to
+
+We will then send you a welcome email after we give you access to:
+1. one of the co-working meetings
+2. our documentation on Google Drive
+3. our Github Project
+4. our Slack workspace 
