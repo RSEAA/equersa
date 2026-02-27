@@ -34,6 +34,12 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 | Standard Registrations | 11th July | 14th August |
 | Conference | 25th August | 28th August (depending on conference) |
 
+## Code of Conduct
+
+The [RSE-AUNZ Code of Conduct]([url](https://rse-aunz.org/code-of-conduct/)) is designed to provide all participants with community participation guidelines.
+
+Everyone volunteering at Equersa and attending the conference needs to abide by them. 
+
 ## Want to Volunteer?
 
 We are still welcoming volunteers, especially those closely connected to Africa and Latin America. 
