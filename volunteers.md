@@ -28,7 +28,7 @@ If you feel we are being extractive, please reach out to  [Rowland Mosbergen via
 
 The [RSE-AUNZ Code of Conduct]([url](https://rse-aunz.org/code-of-conduct/)) is designed to provide all participants with community participation guidelines.
 
-Everyone volunteering at Equersa and within the conference needs to abide by them. 
+Everyone volunteering at Equersa and attending the conference needs to abide by them. 
 
 ## What should you know
 
