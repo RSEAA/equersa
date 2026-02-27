@@ -1,6 +1,11 @@
-# Volunteering for Equersa
+# Volunteering with Equersa
 
-We have created Equersa - an umbrella organisation for the [Research Software Asia Australia conference](https://rseaa.org/), the Research Software Africa conference, and the Research Software Latinoamérica conference - by helping Equersa you will be helping all three conferences at the same time!
+Equersa supports conferences by creating a joint organising committee. These conferences are: 
+- [Research Software Africa (RSA)](RSA)
+- [Research Software Latinoamérica (RSLA)](RSLA)
+- [Research Software Asia Australia (RSAA)](RSAA)
+
+By volunteering with Equersa you will be helping all three conferences at the same time!
 
 ## What should you know
 
