@@ -7,6 +7,8 @@ Equersa supports conferences by creating a joint organising committee. These con
 
 By volunteering with Equersa you will be helping all three conferences at the same time!
 
+## Why volunteer?
+
 We want you to volunteer so you can be doing something that:
 1. is motivating to you,
 2. would benefit you in some way (eg. add to your resume), and
