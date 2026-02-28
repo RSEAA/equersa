@@ -76,7 +76,7 @@ To sign up - please send the following to Rowland:
 2. Your email address
 3. Your current country location
 4. What type of volunteer? Organising committee member, reviewer, session chair
-5. What areas you would like to contribute to (if you want to be an organising committee member
+5. What areas you would like to contribute to (if you want to be an organising committee member) - we don't have a limit for any area
 6. That you agree to the Code of Conduct
 
 For session chairs and reviewers, we will email you an acknowledgement.
