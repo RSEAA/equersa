@@ -17,9 +17,10 @@ We aim to give RSEs in overlooked regions a community to belong to.
 
 We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/) and [RSE-AUNZ](https://rse-aunz.org/).
 
-<img style="max-width: 300px;  height: auto;" alt="RSE-AUNZ logo and RSE Asia logo" src="https://github.com/user-attachments/assets/ffdb1aa8-76b3-4c70-9624-9921a6b13521" />
+<img style="max-width: 300px;  height: auto;" alt="RSE-AUNZ logo and RSE Asia logo" src="https://github.com/user-attachments/assets/cb25bffd-c23a-481d-83a6-9783210e3458" />
 
 ## Key Dates (Tentative)
+
 
 | Item | Open | Close |
 |------|------|-------|
