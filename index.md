@@ -56,3 +56,5 @@ We recognise that we may not be fully aware of all individual needs, and we may 
 We follow the principals created by [Practical Diversity and Inclusion](https://www.practicaldiversity.org/), and underpin that in as many processes as we can. 
 
 We do this by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
+
+One example of this is our Accessibility Fellows and another is our [3 levels of maturity for presenters](accessible-presentations).
