@@ -57,4 +57,7 @@ We follow the principals created by [Practical Diversity and Inclusion](https://
 
 We do this by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
 
-One example of this is our Accessibility Fellows and another is our [3 levels of maturity for presenters](accessible-presentations).
+Examples of this includes:
+1. our [Accessibility Fellows](accessibility-fellows),
+2. our [3 levels of maturity for presenters](accessible-presentations), and
+3. our [Scholarships and Micro-grants](inclusivity).
