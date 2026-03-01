@@ -41,6 +41,8 @@ We acknowledge that achieving inclusivity and equity is challenging, and we won'
 
 We recognise that we may not be fully aware of all individual needs, and we may not be doing enough to address specific circumstances. 
 
+If you want to let us know how we can improve, or to give us positive feedback, please [reach out to Rowland Mosbergen via LinkedIn](https://www.linkedin.com/in/rowlandm-gaicd/).
+
 We follow the principals created by [Practical Diversity and Inclusion](https://www.practicaldiversity.org/), and underpin that in as many processes as we can. 
 
 ## How do we practice DEI?
