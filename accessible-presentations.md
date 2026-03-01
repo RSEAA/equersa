@@ -1,6 +1,6 @@
 # How can I make my presentation more accessible for the Accessibility Fellows?
 
-Have a read of the Accessibility Awareness for Equersa presenters below and choose a maturity level (there are 3 levels) you are willing to aim for.  
+Have a read of the Accessibility Awareness for Equersa presenters below and choose a maturity level (there are 3 levels) you are willing to aim for. At RSAA25, we had 3 presenters aim for Maturity Level 3 as well as the organising committee providing Maturity Level 3 for the keynote, Minh Bui.
 
 # Slide 1 - Title
 - Originally written as "Accessibility Awareness for Research Software Asia Australia (RSAA25) presenters"
