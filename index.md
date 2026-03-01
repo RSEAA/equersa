@@ -47,7 +47,7 @@ We are still welcoming volunteers, especially those closely connected to Africa 
 
 You can [find out more in our volunteer page.](volunteers)
 
-## Diversity, Equity and Inclusion Statement
+## Diversity, Equity and Inclusion (DEI) Statement
 
 We acknowledge that achieving inclusivity and equity is challenging, and we won't always get this right.  Everyone experiences different levels of difficulty, and the playing field is not level. We recognise that discrimination over time and intersectionality can also reduce opportunities.
 
@@ -55,7 +55,9 @@ We recognise that we may not be fully aware of all individual needs, and we may 
 
 We follow the principals created by [Practical Diversity and Inclusion](https://www.practicaldiversity.org/), and underpin that in as many processes as we can. 
 
-We do this by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
+# How do we practice DEI?
+
+We practice DEI by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
 
 Examples of this includes:
 1. our [Accessibility Fellows](accessibility-fellows),
