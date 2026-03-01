@@ -35,6 +35,23 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 | Standard Registrations | 11th July | 14th August |
 | Conference | 25th August | 28th August (depending on conference) |
 
+## Diversity, Equity and Inclusion (DEI) Statement
+
+We acknowledge that achieving inclusivity and equity is challenging, and we won't always get this right.  Everyone experiences different levels of difficulty, and the playing field is not level. We recognise that discrimination over time and intersectionality can also reduce opportunities.
+
+We recognise that we may not be fully aware of all individual needs, and we may not be doing enough to address specific circumstances. 
+
+We follow the principals created by [Practical Diversity and Inclusion](https://www.practicaldiversity.org/), and underpin that in as many processes as we can. 
+
+## How do we practice DEI?
+
+We practice DEI by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
+
+Examples of this includes:
+1. our [Accessibility Fellows](accessibility-fellows),
+2. our [3 levels of maturity for presenters](accessible-presentations), and
+3. our [Scholarships and Micro-grants](inclusivity).
+
 ## Code of Conduct
 
 The [RSE-AUNZ Code of Conduct](https://rse-aunz.org/code-of-conduct/) is designed to provide all participants with community participation guidelines.
@@ -46,20 +63,3 @@ Everyone volunteering at Equersa and attending the conference needs to abide by 
 We are still welcoming volunteers, especially those closely connected to Africa and Latin America. 
 
 You can [find out more in our volunteer page.](volunteers)
-
-## Diversity, Equity and Inclusion (DEI) Statement
-
-We acknowledge that achieving inclusivity and equity is challenging, and we won't always get this right.  Everyone experiences different levels of difficulty, and the playing field is not level. We recognise that discrimination over time and intersectionality can also reduce opportunities.
-
-We recognise that we may not be fully aware of all individual needs, and we may not be doing enough to address specific circumstances. 
-
-We follow the principals created by [Practical Diversity and Inclusion](https://www.practicaldiversity.org/), and underpin that in as many processes as we can. 
-
-# How do we practice DEI?
-
-We practice DEI by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
-
-Examples of this includes:
-1. our [Accessibility Fellows](accessibility-fellows),
-2. our [3 levels of maturity for presenters](accessible-presentations), and
-3. our [Scholarships and Micro-grants](inclusivity).
