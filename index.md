@@ -8,7 +8,7 @@ Equersa fosters true global knowledge sharing and collaboration in research soft
 [^1]: RSEs are researchers who code, software engineers who work in the research domain, generalists who bring communities together, and sysadmins who maintain research software systems
 
 ## What we do
-Equersa supports conferences by creating a joint organising committee. These conferences are: 
+Equersa supports conferences by creating a joint organising committee and providing opportunities for volunteers to improve their skills, raise their profile, and work in a safe space. The conferences we support are: 
 - [Research Software Africa (RSA)](RSA)
 - [Research Software Latinoamérica (RSLA)](RSLA)
 - [Research Software Asia Australia (RSAA)](RSAA)
@@ -50,6 +50,7 @@ We are still welcoming volunteers, especially those closely connected to Africa 
 
 You can [find out more in our volunteer page.](volunteers)
 ## Key Dates (Tentative)
+
 | Item | Open | Close |
 |------|------|-------|
 | Call for Presentations | 30th March | 1st May |
