@@ -4,6 +4,8 @@ Recently we have created an organising committee to host the first online Resear
 
 This conference is based on the success of the Research Software Asia Australia ([RSAA](RSAA)) conferences that have been going since 2022.
 
+The [main website for RSLA26 is here](https://rs-latam.github.io).
+
 We have three co-chairs at present:
 1. Jesica Formoso,
 2. Riva Quiroga, and
