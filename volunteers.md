@@ -1,7 +1,7 @@
 # Volunteering with Equersa
 
 Equersa supports conferences by creating a joint organising committee. These conferences are: 
-- [Research Software Africa (RSA)](RSA)
+- [Research Software Africa (RSAfrica)](RSAfrica)
 - [Research Software Latinoamérica (RSLA)](RSLA)
 - [Research Software Asia Australia (RSAA)](RSAA)
 
