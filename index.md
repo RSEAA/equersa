@@ -9,7 +9,7 @@ Equersa fosters true global knowledge sharing and collaboration in research soft
 
 ## What we do
 Equersa supports conferences by creating a joint organising committee and providing opportunities for volunteers to improve their skills, raise their profile, and work in a safe space. The conferences we support are: 
-- [Research Software Africa (RSA)](RSA)
+- [Research Software Africa (RSA)](https://rseaa.org/RSAfrica26/)
 - [Research Software Latinoamérica (RSLA)](RSLA)
 - [Research Software Asia Australia (RSAA)](RSAA)
 
