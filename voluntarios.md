@@ -2,7 +2,7 @@
 
 Equersa apoya a tres conferencias de software de investigación en Latinoamérica, mediante un comité organizador conjunto. Estas conferencias son: 
 
-- [Research Software Africa (RSA)](RSA)  
+- [Research Software Africa (RSAfrica)](RSAfrica)  
 - [Research Software Latinoamérica (RSLA)](RSLA)  
 - [Research Software Asia Australia (RSAA)](RSAA)  
 
