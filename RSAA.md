@@ -4,7 +4,7 @@ Research Software Asia Australia conferences have been going since 2022. You can
 
 We have three co-chairs at present:
 1. Jyoti Bhogal,
-2. Junran Lai, and
+2. Junran Lei, and
 3. Linda Erlina
 
 We have 23 volunteers from Australia and 4 Asian countries on our organising committee of 40+ volunteers from 16 countries. This is a joint organising committee, setup by an umbrella organisation Equersa, that spans three conferences - RSAA, [Research Software Africa (RSAfrica)](RSAfrica) and [Research Software Latinoamérica (RSLA)](RSLA). 
