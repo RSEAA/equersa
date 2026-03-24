@@ -2,7 +2,7 @@
 
 Recently we have created an organising committee to host the first online Research Software Africa (RSAfrica26) conference in August 2026. This is a joint organising committee, setup by an umbrella organisation Equersa, that spans three conferences - RSAfrica, [Research Software Asia Australia (RSAA)](RSAA) and [Research Software Latinoamérica (RSLA)](RSLA). 
 
-The [main website for Research Software Africa (RSAfrica) is here.](https://rseaa.org/RSAfrica26/)
+The [main website for Research Software Africa (RSAfrica) is here.](https://www.research-software-africa.org/)
 
 This conference is based on the success of the [Research Software Asia Australia (RSAA)](RSAA) conferences that have been going since 2022.
 
