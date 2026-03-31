@@ -19,6 +19,7 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 
 <img width="100" alt="RSE-AUNZ logo and RSE Asia logo" src="https://github.com/user-attachments/assets/cb25bffd-c23a-481d-83a6-9783210e3458" />
 <img width="50" alt="RSE Argentina logo" src="https://github.com/user-attachments/assets/d5def305-1594-4262-ae07-d1eb2a78a1be" />
+<img width="50" alt="RSE Chile logo" src="https://github.com/user-attachments/assets/7faa27f5-6b9f-4d84-b12e-a500c7255dd9" />
 
 
 ## Diversity, Equity and Inclusion (DEI) Statement
