@@ -18,7 +18,7 @@ We aim to give RSEs in overlooked regions a community to belong to.
 We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/) and [RSE-AUNZ](https://rse-aunz.org/).
 
 <img style="max-width: 100px;  height: auto;" alt="RSE-AUNZ logo and RSE Asia logo" src="https://github.com/user-attachments/assets/cb25bffd-c23a-481d-83a6-9783210e3458" />
-<img style="max-width: 50px;  height: auto;" alt="RSE Argentina logo" src="https://github.com/user-attachments/assets/d5def305-1594-4262-ae07-d1eb2a78a1be" />
+<img style="max-width: 50px;  height: 50px;" alt="RSE Argentina logo" src="https://github.com/user-attachments/assets/d5def305-1594-4262-ae07-d1eb2a78a1be" />
 
 ## Diversity, Equity and Inclusion (DEI) Statement
 
