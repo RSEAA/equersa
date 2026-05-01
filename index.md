@@ -7,6 +7,10 @@ Equersa fosters true global knowledge sharing and collaboration in research soft
 
 [^1]: RSEs are researchers who code, software engineers who work in the research domain, generalists who bring communities together, and sysadmins who maintain research software systems
 
+## Call for Presentations for RSAfrica26, RSLA26, and RSAA26
+
+[Links to all three conferences are here](cfp).
+
 ## What we do
 Equersa supports conferences by creating a joint organising committee and providing opportunities for volunteers to improve their skills, raise their profile, and work in a safe space. The conferences we support are: 
 - [Research Software Africa (RSAfrica)](RSAfrica)
