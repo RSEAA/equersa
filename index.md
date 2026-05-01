@@ -22,7 +22,7 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 
 ## Call for Presentations for RSAfrica26, RSLA26, and RSAA26
 
-<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia . Call for Presentations. For Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes mid May 2026. equersa.org/cfp. In the background is a microphone at a conference." src="https://github.com/user-attachments/assets/d4fd23f4-c30a-4743-873b-25ce89fafd96" />
+<a href="cfp"><img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia . Call for Presentations. For Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes mid May 2026. equersa.org/cfp. In the background is a microphone at a conference." src="https://github.com/user-attachments/assets/d4fd23f4-c30a-4743-873b-25ce89fafd96" /></a>
 
 [Links to all three conference Call for Presentations are here](cfp).
 
