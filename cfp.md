@@ -18,6 +18,6 @@ Equersa supports conferences by creating a joint organising committee and provid
 
 We have created a joint organising committee, while the co-chairs for each conference can still choose what happens at their event for three research software conferences: the established [Research Software Asia Australia (RSAA26)](https://rseaa.org) and the new [Research Software Latinoamérica (RSLA26)](https://rs-latam.org/) and [Research Software Africa (RSAfrica26)](https://www.research-software-africa.org)!
 
-As part of this joint organising committee, we have created Equersa, an umbrella organisation to coordinate conferences and provide a unified front to global funders and stakeholders.
+Think of Equersa as an umbrella organisation to coordinate conferences and provide a unified front to global funders and stakeholders.
 
 We are now helping all three conferences raise awareness for their Call for Presentations.
