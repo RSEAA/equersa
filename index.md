@@ -69,7 +69,7 @@ You can [find out more in our volunteer page.](volunteers)
 
 | Item | Open | Close |
 |------|------|-------|
-| Call for Presentations | 30th March | 1st May |
+| Call for Presentations | 30th March | 15th May |
 | Accessibility Fellows | 14th May | 26th June |
 | Notification of presentations | 7th July | — |
 | Call for Session chairs | ASAP | 7th August |
