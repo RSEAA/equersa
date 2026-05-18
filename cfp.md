@@ -10,7 +10,7 @@ We have opened the calls for three Research Software conferences, RSAfrica26, RS
 |----------|----------|----------|----------|
 | RSAfrica26   | [CfP link for RSAfrica26](https://www.research-software-africa.org/call_for_presentations.html)   | 29th May 2026 | 25th August 2026 |
 | RSAA26    | [CfP link for RSAA26](https://rseaa.org/call_for_presentations)   | 29th May 2026 | 25th August 2026 |
-| RSLA26    | [CfP link for RSLA26 (in Spanish)](https://rs-latam.org/llamado.html)  | 17th May 2026 | 25th August 2026 |
+| RSLA26    | [CfP link for RSLA26 (in Spanish)](https://rs-latam.org/llamado.html)  | 31st May 2026 | 25th August 2026 |
 
 ## What is Equersa?
 
