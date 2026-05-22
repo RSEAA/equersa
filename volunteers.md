@@ -79,7 +79,7 @@ To sign up - please send the following to Rowland:
 5. What areas you would like to contribute to (if you want to be an organising committee member) - we don't have a limit for any area
 6. That you agree to the Code of Conduct
 
-For session chairs and reviewers, we will email you an acknowledgement.
+For [session chairs and reviewers, you can fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeaxzxAwAUZvURpkR6_BLwz4MF6hQLNQ5_CYC14HyJIXt07Kg/viewform).
 
 For organising committee members, we will then send you a welcome email after we give you access to:
 1. one of the co-working meetings
