@@ -13,6 +13,10 @@ To strengthen gender diversity in our accessibility fellowship, we especially en
   2026 Accessibility Fellowship Form
 </a>
 
+<a href="https://forms.gle/VzyJxvdVBtxZsVC56" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2026 Formulario de la Beca de Accesibilidad
+</a>
+
 
 ## Past Fellows
 1. [Harsh Kalra and his 2024 accessibility report](https://rseaa.org/harsh_kalra)
