@@ -10,4 +10,10 @@ Eligibility for the accessibility micro-grants is based on a similar approach.
 
 ## How to Apply
 
-More details, including how to apply, will be available soon.
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2026 Application Form for Scholarships and Accessibility Micro-grant
+</a>
+
+<a href="https://forms.gle/y7ZneVNMiJNYa6iKA" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2026 Formulario de solicitud para becas y microbecas de accesibilidad
+</a>
