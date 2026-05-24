@@ -7,6 +7,13 @@ The RSAA26 Accessibility Fellowship aims to encourage individuals with disabilit
 
 To strengthen gender diversity in our accessibility fellowship, we especially encourage women and gender fluid disabled people to apply. We value the unique perspectives and experiences you bring.
 
+## Apply for the Accessibility Fellowships for 2026
+
+<a href="#" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2026 Accessibility Fellowship Form
+</a>
+
+
 ## Past Fellows
 1. [Harsh Kalra and his 2024 accessibility report](https://rseaa.org/harsh_kalra)
 2. [Sanchit Ghule and his 2024 accessibility report](https://rseaa.org/sanchit.html)
