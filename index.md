@@ -29,6 +29,28 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 
 [Links to all three conference Call for Presentations are here](cfp).
 
+## Call for Accessibility Fellows, Scholarships, and Micro-grants for RSAA, RSAfrica, and RSLA
+
+### Apply for the Accessibility Fellows for 2026
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdnHNdGZSpdu1nXkX8AEtGMuzn5saSLTW8vP5Eupwu7TE-wUQ/viewform?usp=header" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2026 Accessibility Fellowship Form
+</a>
+
+<a href="https://forms.gle/VzyJxvdVBtxZsVC56" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2026 Formulario de la Beca de Accesibilidad
+</a>
+
+### Apply for the Scholarships and Accessibility Micro-grants for 2026
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2026 Application Form for Scholarships and Accessibility Micro-grant
+</a>
+
+<a href="https://forms.gle/y7ZneVNMiJNYa6iKA" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2026 Formulario de solicitud para becas y microbecas de accesibilidad
+</a>
+
 ## Follow RSAfrica, RSAA, and RSLA on Social media
 
 - [RSAfrica26 LinkedIn](https://www.linkedin.com/company/rsafrica/)
