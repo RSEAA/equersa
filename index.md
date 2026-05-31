@@ -23,16 +23,11 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 <img width="50" alt="RSE Chile logo" src="https://github.com/user-attachments/assets/7faa27f5-6b9f-4d84-b12e-a500c7255dd9" />
 
 
-## Call for Presentations for RSAfrica26, RSLA26, and RSAA26
-
-<a href="cfp"><img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia . Call for Presentations. For Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes end of May 2026. equersa.org/cfp. In the background is a microphone at a conference." src="https://github.com/user-attachments/assets/b6e34a92-c4f9-408c-a0c3-2ea9e89cc756" /></a>
-
-[Links to all three conference Call for Presentations are here](cfp).
-
 ## Call for Accessibility Fellows, Scholarships, and Micro-grants for RSAA, RSAfrica, and RSLA
 
-### Apply for the Accessibility Fellows for 2026
-
+### Apply for the Accessibility Fellowship for 2026
+<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Call Now Open for Accessibility Fellows. For Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes 26th of June 2026. equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/350e1b09-4abb-43df-99bb-5e8b8365a9a7" />
+<br/>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnHNdGZSpdu1nXkX8AEtGMuzn5saSLTW8vP5Eupwu7TE-wUQ/viewform?usp=header" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
   2026 Accessibility Fellowship Form
 </a>
@@ -42,7 +37,10 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 </a>
 
 ### Apply for the Scholarships and Accessibility Micro-grants for 2026
+<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Call for Scholarships. Scholarships provide free tickets for Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes 14th of August 2026. equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/be0fe4c2-c590-456f-b406-1c65b39a3da6" />
 
+<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Call for Micro-Grants. 30 micro-grants at $50 AUD are available for Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes 10th of July 2026. equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/fffe5871-1f96-4b26-bfd1-8bea47033f5a" />
+<br/>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
   2026 Application Form for Scholarships and Accessibility Micro-grant
 </a>
