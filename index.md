@@ -98,8 +98,11 @@ The third way is that we are sharing any leftover funding equally to help suppor
 
 The fourth way is that we will have unlimited scholarships (free tickets), 30 micro-grants, and 6 Accessibility Fellows across the three conferences. Combined with our three accessibility presentation levels framework, it shows that supporting Equersa allows your organisation to demonstrate, not merely state, its DEI values through tangible funding for underrepresented communities in research software.
 
-You can find out more through our [Equersa Prospectus](https://github.com/user-attachments/files/28484711/GSRS-0056.Equersa.Prospectus_compressed.pdf)
+You can find out more through our [Equersa Prospectus.](https://github.com/user-attachments/files/28484711/GSRS-0056.Equersa.Prospectus_compressed.pdf)
 
+<a href="https://github.com/user-attachments/files/28484711/GSRS-0056.Equersa.Prospectus_compressed.pdf" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  Download Equersa Prospectus
+</a>
 
 ## Key Dates (Tentative)
 
