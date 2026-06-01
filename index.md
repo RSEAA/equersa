@@ -85,6 +85,22 @@ Everyone volunteering at Equersa and attending the conference needs to abide by 
 We are still welcoming volunteers, especially those closely connected to Africa and Latin America. 
 
 You can [find out more in our volunteer page.](volunteers)
+
+## Are you an organisation who wants to support us?
+
+Supporting Equersa can extend your impact into Africa, Asia, and Latin America in a way that is decolonial, by centering the people who are most marginalised, creating safe spaces and sharing power through creating opportunities - [the three principles based off the work with Practical Diversity and Inclusion](https://www.practicaldiversity.org/2024/03/31/opportunity-is-the-antidote-to-discrimination/). 
+
+The first way we did this was to invite local co-chairs that have authority over their own conference. That is why RSLA26 will be hosted in Spanish.
+
+The second way we did this was to recruit 50 volunteers from 20 countries across 6 continents via a joint organising committee (not including reviewers and session chairs) to help support the co-chairs from all three conferences. We are also sharing power with each community through our knowledge, skills and support. We did this without imposing any beliefs—we simply provided tools, skills, and knowledge such as documentation from the last 4 years of RSAA and asked what they wanted to use and what they wanted to ignore.
+
+The third way is that we are sharing any leftover funding equally to help support further community work across the Global South.
+
+The fourth way is that we will have unlimited scholarships (free tickets), 30 micro-grants, and 6 Accessibility Fellows across the three conferences. Combined with our three accessibility presentation levels framework, it shows that supporting Equersa allows your organisation to demonstrate, not merely state, its DEI values through tangible funding for underrepresented communities in research software.
+
+You can find out more through our [Equersa Prospectus](https://github.com/user-attachments/files/28484711/GSRS-0056.Equersa.Prospectus_compressed.pdf)
+
+
 ## Key Dates (Tentative)
 
 | Item | Open | Close |
