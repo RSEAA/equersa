@@ -86,6 +86,10 @@ We are still welcoming volunteers, especially those closely connected to Africa 
 
 You can [find out more in our volunteer page.](volunteers)
 
+<a href="volunteers" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  Volunteer Page
+</a>
+
 ## Are you an organisation who wants to support us?
 
 Supporting Equersa can extend your impact into Africa, Asia, and Latin America in a way that is decolonial, by centering the people who are most marginalised, creating safe spaces and sharing power through creating opportunities - [the three principles based off the work with Practical Diversity and Inclusion](https://www.practicaldiversity.org/2024/03/31/opportunity-is-the-antidote-to-discrimination/). 
