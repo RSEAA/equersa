@@ -16,11 +16,12 @@ Equersa supports conferences by creating a joint organising committee and provid
 
 We aim to give RSEs in overlooked regions a community to belong to.
 
-We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/), [RSE-AUNZ](https://rse-aunz.org/), [RSE Argentina](https://rse-argentina.github.io/), and [RSE Chile](https://rse-chile.github.io/).
+We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/), [RSE-AUNZ](https://rse-aunz.org/), [RSE Argentina](https://rse-argentina.github.io/), and [RSE Chile](https://rse-chile.github.io/). [RSSE Africa](https://rsse.africa/) is included in recognition of its role in supporting and connecting research software and systems communities across Africa.
 
 <img width="100" alt="RSE-AUNZ logo and RSE Asia logo" src="https://github.com/user-attachments/assets/cb25bffd-c23a-481d-83a6-9783210e3458" />
 <img width="50" alt="RSE Argentina logo" src="https://github.com/user-attachments/assets/d5def305-1594-4262-ae07-d1eb2a78a1be" />
 <img width="50" alt="RSE Chile logo" src="https://github.com/user-attachments/assets/7faa27f5-6b9f-4d84-b12e-a500c7255dd9" />
+<img width="50" alt="rsse Africa logo" src="https://github.com/user-attachments/assets/07b6242c-eb36-4d87-ba14-435b022b839b" />
 
 
 ## Call for Accessibility Fellows, Scholarships, and Micro-grants for RSAA, RSAfrica, and RSLA
