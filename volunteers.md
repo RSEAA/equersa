@@ -81,6 +81,10 @@ To sign up - please send the following to Rowland:
 
 For [session chairs and reviewers, you can fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeaxzxAwAUZvURpkR6_BLwz4MF6hQLNQ5_CYC14HyJIXt07Kg/viewform).
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeaxzxAwAUZvURpkR6_BLwz4MF6hQLNQ5_CYC14HyJIXt07Kg/viewform" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  Session chairs and reviewers form
+</a>
+
 For organising committee members, we will then send you a welcome email after we give you access to:
 1. one of the co-working meetings
 2. our documentation on Google Drive
