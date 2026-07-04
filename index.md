@@ -26,17 +26,6 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 
 ## Call for Accessibility Fellows, Scholarships, and Micro-grants for RSAA, RSAfrica, and RSLA
 
-### Apply for the Accessibility Fellowship for 2026
-<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Call Now Open for Accessibility Fellows. For Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes 26th of June 2026. equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/350e1b09-4abb-43df-99bb-5e8b8365a9a7" />
-<br/>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdnHNdGZSpdu1nXkX8AEtGMuzn5saSLTW8vP5Eupwu7TE-wUQ/viewform?usp=header" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
-  2026 Accessibility Fellowship Form
-</a>
-
-<a href="https://forms.gle/VzyJxvdVBtxZsVC56" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
-  2026 Formulario de la Beca de Accesibilidad
-</a>
-
 ### Apply for the Scholarships and Accessibility Micro-grants for 2026
 <img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Call for Scholarships. Scholarships provide free tickets for Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes 14th of August 2026. equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/be0fe4c2-c590-456f-b406-1c65b39a3da6" />
 
@@ -49,6 +38,10 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 <a href="https://forms.gle/y7ZneVNMiJNYa6iKA" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
   2026 Formulario de solicitud para becas y microbecas de accesibilidad
 </a>
+
+### Accessibility Fellowship for 2026 has now closed
+<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Call Now Open for Accessibility Fellows. For Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes 26th of June 2026. equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/350e1b09-4abb-43df-99bb-5e8b8365a9a7" />
+<br/>
 
 ## Follow RSAfrica, RSAA, and RSLA on Social media
 
