@@ -23,6 +23,15 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 <img width="50" alt="RSE Chile logo" src="https://github.com/user-attachments/assets/7faa27f5-6b9f-4d84-b12e-a500c7255dd9" />
 <img width="50" alt="rsse Africa logo" src="https://github.com/user-attachments/assets/07b6242c-eb36-4d87-ba14-435b022b839b" />
 
+## Registrations are now open for Research Software Asia Australia (RSAA26), Research Software Africa, and Research Software Latinoamérica!
+
+<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Early bird registration last date extended! For Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella. Early bird closes 24 July 2026, regular tickets close on 14 August 2026! equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/164d2087-c7c2-4cd1-b0bf-87c2394feca3" />
+
+<a href="https://events.humanitix.com/equersa-2026" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  Registrations are now open!
+</a>
+
+<br/>
 
 ## Call for Accessibility Fellows, Scholarships, and Micro-grants for RSAA, RSAfrica, and RSLA
 
@@ -40,8 +49,6 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 </a>
 
 ### Accessibility Fellowship for 2026 has now closed
-<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Call Now Open for Accessibility Fellows. For Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes 26th of June 2026. equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/350e1b09-4abb-43df-99bb-5e8b8365a9a7" />
-<br/>
 
 ## Follow RSAfrica, RSAA, and RSLA on Social media
 
