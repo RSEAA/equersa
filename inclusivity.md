@@ -4,9 +4,23 @@ To improve inclusivity and affordability, every year we offer scholarships for s
 
 ## Eligibility
 
-Eligibility for the scholarships are based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.
+These scholarships are available people who are:
 
-Eligibility for the accessibility micro-grants is based on a similar approach.
+- unemployed,
+- undergraduate students,
+- Masters or PhD students,
+- in precarious employment,
+- financially pressured,
+- lack conference presentation opportunities,
+- don’t have a credit card to purchase tickets,
+- have had a career transition or gap,
+- are underrepresented in their field,
+- have caring duties, or
+- feel uncomfortable asking supervisors for funding.
+
+If you don’t fit neatly into these categories but face other barriers to attendance, we encourage you to apply as we’re here to support you.
+
+Eligibility for the accessibility micro-grants are based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status, and the intersectionality of that discrimination, as well as others not mentioned here.
 
 ## How to Apply
 
