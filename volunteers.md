@@ -1,4 +1,6 @@
-# Volunteering with Equersa
+# Volunteering with Equersa (2026)
+
+NOTE: Please recognise we will be changing this slightly for 2027
 
 Equersa supports conferences by creating a joint organising committee. These conferences are: 
 - [Research Software Africa (RSAfrica)](RSAfrica)
