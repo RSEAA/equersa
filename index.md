@@ -52,6 +52,16 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 - [RSAA LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [RSLA26 LinkedIn](https://www.linkedin.com/company/rs-latam/)
 
+### Calls for 2027 Equersa Organising Committee Expressions of Interest now open
+
+The next Equersa Group of Conferences will be online from the 24th to the 27th of August 2027. We are hoping to run all three conferences next year: Research Software Africa (RSAfrica), Research Software Latinoamérica (RSLA), and Research Software Asia Australia (RSAA).
+
+If you would like to be a part of the joint organising committee that spans all three conferences - please fill out this form.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdQCgGClSTO7rAkgIDL3Shg1sE61aS4RO1FMhWAIesGbm7uaQ/viewform" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  2027 Equersa Organising Committee Expressions of Interest
+</a>
+
 ## Diversity, Equity and Inclusion (DEI) Statement
 
 We acknowledge that achieving inclusivity and equity is challenging, and we won't always get this right.  Everyone experiences different levels of difficulty, and the playing field is not level. We recognise that discrimination over time and intersectionality can also reduce opportunities.
