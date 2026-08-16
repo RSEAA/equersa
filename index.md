@@ -56,7 +56,7 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 
 The next Equersa Group of Conferences will be online from the 24th to the 27th of August 2027. We are hoping to run all three conferences next year: Research Software Africa (RSAfrica), Research Software Latinoamérica (RSLA), and Research Software Asia Australia (RSAA).
 
-If you would like to be a part of the joint organising committee that spans all three conferences - please fill out this form.
+If you would like to be a part of the joint organising committee that spans all three conferences - [please fill out this 2027 Equersa Organising Committee EOI form.](https://docs.google.com/forms/d/e/1FAIpQLSdQCgGClSTO7rAkgIDL3Shg1sE61aS4RO1FMhWAIesGbm7uaQ/viewform)
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQCgGClSTO7rAkgIDL3Shg1sE61aS4RO1FMhWAIesGbm7uaQ/viewform" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
   2027 Equersa Organising Committee Expressions of Interest
