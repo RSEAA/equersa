@@ -23,26 +23,9 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 <img width="50" alt="RSE Chile logo" src="https://github.com/user-attachments/assets/7faa27f5-6b9f-4d84-b12e-a500c7255dd9" />
 <img width="50" alt="rsse Africa logo" src="https://github.com/user-attachments/assets/07b6242c-eb36-4d87-ba14-435b022b839b" />
 
-## Registrations are now open for Research Software Asia Australia (RSAA26), Research Software Africa, and Research Software Latinoamérica!
+## Registrations are now closed for Research Software Asia Australia (RSAA26), Research Software Africa, and Research Software Latinoamérica!
 
-<a href="https://events.humanitix.com/equersa-2026" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
-  Registrations are now open!
-</a>
-
-<br/>
-
-## Call for Accessibility Fellows, Scholarships, and Micro-grants for RSAA, RSAfrica, and RSLA
-
-### Apply for the Scholarships and Accessibility Micro-grants for 2026
-<img width="400" height="400" alt="Logo of Research Software Africa, Research Software Latin America, and Research Software Asia Australia. Call for Scholarships. Scholarships provide free tickets for Research Software Africa, Latin America and Asia-Australia under the Equersa umbrella organisation. Closes 14th of August 2026. equersa.org. In the background is a diverse group of people looking away with a rainbow in between them." src="https://github.com/user-attachments/assets/be0fe4c2-c590-456f-b406-1c65b39a3da6" />
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform?usp=header" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
-  2026 Application Form for Scholarships and Accessibility Micro-grant
-</a>
-
-<a href="https://forms.gle/y7ZneVNMiJNYa6iKA" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
-  2026 Formulario de solicitud para becas y microbecas de accesibilidad
-</a>
+## Call for Scholarships, and Micro-grants for RSAA, RSAfrica, and RSLA are now closed
 
 ### Accessibility Fellowship for 2026 has now closed
 
