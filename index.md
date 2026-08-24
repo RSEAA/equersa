@@ -53,6 +53,9 @@ We recognise that we may not be fully aware of all individual needs, and we may 
 
 If you want to let us know how we can improve, or to give us positive feedback, please [reach out to Rowland Mosbergen via LinkedIn](https://www.linkedin.com/in/rowlandm-gaicd/).
 
+<img width="500" height="212" alt="Logo of practical diversity and inclusion three black rings in a venn diagram inside an orange circle" src="https://github.com/user-attachments/assets/1a928b7c-8136-4645-a824-fa2ce5b69839" />
+
+
 We follow the principals created by [Practical Diversity and Inclusion](https://www.practicaldiversity.org/), and underpin that in as many processes as we can. 
 
 ## How do we practice DEI?
