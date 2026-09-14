@@ -23,12 +23,6 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 <img width="50" alt="RSE Chile logo" src="https://github.com/user-attachments/assets/7faa27f5-6b9f-4d84-b12e-a500c7255dd9" />
 <img width="50" alt="rsse Africa logo" src="https://github.com/user-attachments/assets/07b6242c-eb36-4d87-ba14-435b022b839b" />
 
-## Registrations are now closed for Research Software Asia Australia (RSAA26), Research Software Africa, and Research Software Latinoamérica!
-
-## Call for Scholarships, and Micro-grants for RSAA, RSAfrica, and RSLA are now closed
-
-### Accessibility Fellowship for 2026 has now closed
-
 ## Follow RSAfrica, RSAA, and RSLA on Social media
 
 - [RSAfrica26 LinkedIn](https://www.linkedin.com/company/rsafrica/)
@@ -60,7 +54,7 @@ We follow the principals created by [Practical Diversity and Inclusion](https://
 
 ## How do we practice DEI?
 
-We practice DEI by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
+We practice DEI by aiming to centre the most marginalised, create safe spaces, create opportunities, and break down barriers through shared power. 
 
 Examples of this includes:
 1. our [Accessibility Fellows](accessibility-fellows),
