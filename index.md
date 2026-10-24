@@ -3,11 +3,6 @@ title: equersa
 ---
 <img alt="Equersa logo that looks like an e inside a purple circle with Equitable global collaboration in Research Software. Locally shaped - globally connected" src="https://github.com/user-attachments/assets/db181389-cb36-4613-887a-2a1a9b1636e3" />
 
-# Welcome to Equersa 
-
-_Equitable global collaboration and opportunity in Research Software_
-
-## Purpose Statement
 Equersa fosters true global knowledge sharing and collaboration in research software through the creation of equitable environments for Research Software Engineers [^1]. We do this by creating safe spaces, creating opportunities, and breaking down barriers through shared power. 
 
 [^1]: RSEs are researchers who code, software engineers who work in the research domain, generalists who bring communities together, and sysadmins who maintain research software systems
