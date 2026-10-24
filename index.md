@@ -1,3 +1,5 @@
+<img alt="Equersa logo that looks like an e inside a purple circle with Equitable global collaboration in Research Software. Locally shaped - globally connected" src="https://github.com/user-attachments/assets/8541f3f9-d0e6-49e5-aa04-314561edce7a" />
+
 # Welcome to Equersa 
 
 _Equitable global collaboration and opportunity in Research Software_
