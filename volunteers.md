@@ -39,7 +39,7 @@ We have 4 types of volunteers, with co-chairs having the highest level of commit
 | Commitment | Type | Time commitment over 30 weeks | Expectations of Role | Status |
 |------------|------|-------------------------------|----------------------|--------|
 | Highest | Co-chairs | Up to 90 hours / 2 hours per week | Organise and oversee all aspects of their conference, plus work on one area. Regularly attend and chair co-working weekly meetings. Provide email responses within 72 hours. | Filled for 2027 |
-| High | Co-chairs | Up to 60 hours / 2 hours per week | Organise and oversee one area of the conference that may go across all conferences. Regularly attend and chair co-working weekly meetings. Provide email responses within 72 hours as appropriate. | Still available for 2027 |
+| High | Area Team Leads | Up to 60 hours / 2 hours per week | Organise and oversee one area of the conference that may go across all conferences. Regularly attend and chair co-working weekly meetings. Provide email responses within 72 hours as appropriate. | Still available for 2027 |
 | Medium | Organising committee members | 30 hours / 1 hour per week | Suggest and implement ideas for an area of the conference. Attend some of the co-working weekly meetings as needed (or more if you want to hang out and connect). Provide email responses within 72 hours as appropriate. | Still available for 2027 |
 | Lowest | Observer | Minimal | On the mailing list to receive information and provide feedback by email | Still available for 2027 |
 | Lowest | Reviewers | 2 to 4 hours total | Review submissions for talks, lightning talks, panels and flexible formats | Not open yet for 2027 |
