@@ -1,6 +1,6 @@
 # Volunteering with Equersa (2026)
 
-NOTE: Please recognise we will be changing this slightly for 2027
+NOTE: Please recognise we have changed this slightly for 2027
 
 Equersa supports conferences by creating a joint organising committee. These conferences are: 
 - [Research Software Africa (RSAfrica)](RSAfrica)
@@ -33,8 +33,6 @@ The [RSE-AUNZ Code of Conduct](https://rse-aunz.org/code-of-conduct/) is designe
 Everyone volunteering at Equersa and attending the conference needs to abide by them. 
 
 ## What should you know
-
-We are still welcoming volunteers, especially people connected closely to Africa and Latin America.
 
 We have 4 types of volunteers, with co-chairs having the highest level of commitment, down to reviewers and session chairs having the lowest level of commitment.
 
