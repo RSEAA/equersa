@@ -20,11 +20,12 @@ We want you to volunteer so you can be doing something that:
 
 We want to avoid being extractive of our volunteers, and we want to keep them safe from burnout by: 
 
-1. lowering expectations for conference participants if we recognise we are burning out our valuable volunteers.
-2. recognising that while we do expect that initially you can commit, we know that this may change and that you can stop at any time. Life happens, and you are volunteering. 
-3. asking that if you can, let us know that you do not want to contribute anymore so you don’t get messages inappropriately.
-4. asking that if you can't let us know, we may reach out to check in on you and see if you are OK.
-5. asking that if you feel we are being extractive, please reach out to  [Rowland Mosbergen via his LinkedIn](https://www.linkedin.com/in/rowlandm-gaicd/) to let him know.
+1. lowering expectations for conference participants if we recognise we are burning out our valuable volunteers;
+2. recognising that while we do expect that initially you can commit, we know that this may change and that you can stop at any time. Life happens, and you are volunteering;
+3. asking that if you can, let us know that you do not want to contribute anymore so you don’t get messages inappropriately;
+4. asking that if you can't let us know, we may reach out to check in on you and see if you are OK;
+5. asking them to recognise that the don’t need to respond on weekends or outside their volunteer or work hours - they may receive then because we’re in different time zones or can’t get to them during the day - so please reply whenever it works for each volunteer.
+6. asking that if you feel we are being extractive, please reach out to  [Rowland Mosbergen via his LinkedIn](https://www.linkedin.com/in/rowlandm-gaicd/) to let him know.
 
 ## Code of Conduct
 
