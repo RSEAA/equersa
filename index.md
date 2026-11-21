@@ -28,6 +28,16 @@ We do this in collaboration with [RSE Asia](https://rse-asia.github.io/RSE_Asia/
 - [RSAA LinkedIn](https://www.linkedin.com/company/rseaa/)
 - [RSLA26 LinkedIn](https://www.linkedin.com/company/rs-latam/)
 
+## Want to Volunteer for Equersa 2027?
+
+We are still welcoming volunteers, especially those closely connected to Africa and Latin America. 
+
+You can [find out more in our volunteer page.](volunteers)
+
+<a href="volunteers" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
+  Volunteer Page
+</a>
+
 ## Diversity, Equity and Inclusion (DEI) Statement
 
 We acknowledge that achieving inclusivity and equity is challenging, and we won't always get this right.  Everyone experiences different levels of difficulty, and the playing field is not level. We recognise that discrimination over time and intersectionality can also reduce opportunities.
@@ -55,16 +65,6 @@ Examples of this includes:
 The [RSE-AUNZ Code of Conduct](https://rse-aunz.org/code-of-conduct/) is designed to provide all participants with community participation guidelines.
 
 Everyone volunteering at Equersa and attending the conference needs to abide by them. 
-
-## Want to Volunteer for Equersa 2027?
-
-We are still welcoming volunteers, especially those closely connected to Africa and Latin America. 
-
-You can [find out more in our volunteer page.](volunteers)
-
-<a href="volunteers" style="display: inline-block; padding: 12px 24px; background-color: #7C004C; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; cursor: pointer;">
-  Volunteer Page
-</a>
 
 ## Are you an organisation who wants to support us?
 
