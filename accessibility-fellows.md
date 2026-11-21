@@ -30,5 +30,4 @@ We also want to remind successful fellows that:
 3. Please think about how you can use this to promote yourself and the advocacy work that you do - this is just as much about benefiting you as helping us
 4. Please think about how we can make it easier to help others who may have struggled with the fellowship application and
 5. Please remember we are a community conference run by volunteers - we may not be able to implement your suggestions - in fact we are struggling to keep up with our commitments to do the Accessibility Fellowship and the micro-grants.
-9. [Aishwarya Tulsi Vijay Accessibility Fellow Report](https://rseaa.org/accessibility-fellow/reports/2026/aishwarya-tulsi-vijay)
 
