@@ -84,17 +84,15 @@ You can find out more through our [Equersa Prospectus.](https://github.com/user-
   Download Equersa Prospectus
 </a>
 
-## Key Dates (Tentative)
+## Key Dates (2027)
 
 | Item | Open | Close |
 |------|------|-------|
-| Call for Presentations | 30th March | 29th May |
-| Accessibility Fellows | 14th May | 26th June |
-| Notification of presentations | 7th July | — |
-| Call for Session chairs | ASAP | 7th August |
-| Call for Reviewers | ASAP | 15th May |
-| Micro-grants | 14th May | 10th July |
-| Scholarships | 14th May | 14th August |
-| Early Bird Registrations | 15th June | 10th July |
-| Standard Registrations | 11th July | 14th August |
-| Conference | 25th August | 28th August (depending on conference) |
+| Call for Presentations | TBA | TBA |
+| Accessibility Fellows | TBA | TBA |
+| Notification of presentations | TBA | — |
+| Call for Session chairs | TBA | TBA |
+| Call for Reviewers | TBA | TBA |
+| Micro-grants | TBA | TBA |
+| Standard Registrations | TBA | TBA |
+| Conference | 24th August | 27th August |
