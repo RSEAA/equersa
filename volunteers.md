@@ -35,7 +35,7 @@ Everyone volunteering at Equersa and attending the conference needs to abide by 
 
 ## What should you know
 
-We have 4 types of volunteers, with co-chairs having the highest level of commitment, down to reviewers and session chairs having the lowest level of commitment.
+We have 6 types of volunteers, with co-chairs having the highest level of commitment, down to observers, reviewers and session chairs having the lowest level of commitment.
 
 | Commitment | Type | Time commitment over 30 weeks | Expectations of Role | Status |
 |------------|------|-------------------------------|----------------------|--------|
