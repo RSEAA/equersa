@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+
+      <header style="margin-bottom: 24px;">
+        <a href="{{ '/' | relative_url }}">
+          <img
+            alt="Equersa logo that looks like an e inside a purple circle with Equitable global collaboration in Research Software. Locally shaped - globally connected"
+            src="https://github.com/user-attachments/assets/db181389-cb36-4613-887a-2a1a9b1636e3"
+            style="max-width: 100%; height: auto; max-height: 120px;"
+          />
+        </a>
+      </header>
+
+      {{ content }}
+
+    </div>
+  </body>
+</html>
